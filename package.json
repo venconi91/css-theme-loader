@@ -1,0 +1,23 @@
+{
+  "name": "css-theme-loader",
+  "version": "1.0.0",
+  "description": "theme-loader that allows you to add theming with config file and use variables in css files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venconi91/css-theme-loader.git"
+  },
+  "keywords": [
+    "\"theme\"",
+    "\"loader\""
+  ],
+  "author": "Ventsislav Arsov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/venconi91/css-theme-loader/issues"
+  },
+  "homepage": "https://github.com/venconi91/css-theme-loader#readme"
+}
